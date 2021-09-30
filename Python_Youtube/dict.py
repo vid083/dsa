@@ -4,7 +4,7 @@ dict = { 'name' : 'tom',
         'is_tall' : True,
         'friends' : ['peter', 'paul','pastor']
 }
-#x = dict['name']
+# x = dict['name']
 
 print(dict)
 
